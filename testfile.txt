@@ -1,2 +1,5 @@
 This is a test line in a test file
+<<<<<<< HEAD
 Updating the testfile to check if fix has worked
+=======
+>>>>>>> 94eaa0e1089e20edd00befffe8164dbbaaa2d5f2
